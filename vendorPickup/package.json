@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1368.0",
+    "chance": "^1.1.11"
+  }
+}
